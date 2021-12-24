@@ -137,7 +137,7 @@
 [blog]: http://dev.to/costamatheus97/ "Blog"
 
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=costamatheus97&theme=react-dark)](https://github.com/costamatheus97)
-
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=costamatheus97&theme=react-dark)](https://github.com/costamatheus97)
+ -->
 
 
