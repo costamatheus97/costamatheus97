@@ -21,7 +21,6 @@
 
 > Tools, languages, and other things that I like to work with.
 
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -120,10 +119,13 @@
       <br>VTEX
     </td>
   </tr>
-  </tr
 </table>
 
-## ✍️ Latest Articles 
+
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=costamatheus97&theme=react-dark)](https://github.com/costamatheus97)
+ -->
+  
+  ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
 - [Interacting with external Smart Contracts in Solidity](https://dev.to/costamatheus97/web3-how-tos-interacting-with-external-smart-contracts-in-solidity-3of1)
 - [Web3 - The Ultimate Guide to Create your own Cryptocurrency Token with Solidity](https://dev.to/costamatheus97/web3-the-ultimate-guide-to-create-your-own-cryptocurrency-token-with-solidity-ne9)
@@ -135,9 +137,5 @@
 [linkedin]: https://www.linkedin.com/in/costamatheus97 "LinkedIn"
 [twitter]: https://twitter.com/txpsss "Twitter"
 [blog]: http://dev.to/costamatheus97/ "Blog"
-
-
-<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=costamatheus97&theme=react-dark)](https://github.com/costamatheus97)
- -->
 
 
