@@ -9,7 +9,7 @@
 
 - :office: &nbsp;I'm currently working at **Popstand**
 - :seedling: &nbsp;I’m currently learning **[Solidity](https://docs.soliditylang.org/en/v0.8.11/)**
-- :writing_hand: &nbsp;I regulary write article on my **[blog]**
+- :writing_hand: &nbsp;I regulary write articles on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/costamatheus97/)**
@@ -127,6 +127,7 @@
   
   ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
+- [useState vs useReducer ultimate guide](https://dev.to/costamatheus97/youre-probably-using-usestate-the-wrong-way-heres-why-3fh3)
 - [Interacting with external Smart Contracts in Solidity](https://dev.to/costamatheus97/web3-how-tos-interacting-with-external-smart-contracts-in-solidity-3of1)
 - [Web3 - The Ultimate Guide to Create your own Cryptocurrency Token with Solidity](https://dev.to/costamatheus97/web3-the-ultimate-guide-to-create-your-own-cryptocurrency-token-with-solidity-ne9)
 - [The best way to learn programming: JavaScript Edition](https://dev.to/costamatheus97/the-best-way-to-learn-programming-javascript-edition-26m4)
