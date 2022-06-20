@@ -127,6 +127,7 @@
   
   ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
+- [Using Cache with JavaScript examples](https://dev.to/costamatheus97/using-cache-with-javascript-examples-520i)
 - [useState vs useReducer ultimate guide](https://dev.to/costamatheus97/youre-probably-using-usestate-the-wrong-way-heres-why-3fh3)
 - [Interacting with external Smart Contracts in Solidity](https://dev.to/costamatheus97/web3-how-tos-interacting-with-external-smart-contracts-in-solidity-3of1)
 - [Web3 - The Ultimate Guide to Create your own Cryptocurrency Token with Solidity](https://dev.to/costamatheus97/web3-the-ultimate-guide-to-create-your-own-cryptocurrency-token-with-solidity-ne9)
