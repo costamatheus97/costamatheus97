@@ -8,12 +8,12 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Popstand**
-- :seedling: &nbsp;I’m currently learning **[Solidity](https://docs.soliditylang.org/en/v0.8.11/)**
+- :seedling: &nbsp;I’m currently learning **[Go](https://go.dev/)**
 - :writing_hand: &nbsp;I regulary write articles on my **[blog]**
-- :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
+- :speech_balloon: &nbsp;I like to talk about Computer Science and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/costamatheus97/)**
-- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/txpsss)**
+- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/txupsss)**
 
 <br>
 
