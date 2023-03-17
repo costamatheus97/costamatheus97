@@ -8,7 +8,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Popstand**
-- :seedling: &nbsp;I’m currently learning **[Go](https://go.dev/)**
+- :seedling: &nbsp;I’m currently learning **[Rust](https://www.rust-lang.org/)**
 - :writing_hand: &nbsp;I regulary write articles on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about Computer Science and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
