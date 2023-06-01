@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=costamatheus97&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Matheus Costa" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Popstand**
+- :office: &nbsp;I'm currently working at **Varsity Tutors**
 - :seedling: &nbsp;I’m currently learning **[Go](https://go.dev/)**
 - :writing_hand: &nbsp;I regulary write articles on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about Computer Science and **JavaScript**
