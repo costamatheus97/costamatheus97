@@ -1,11 +1,6 @@
 
 <h1 align="left" id="matheus-title">:wave: Hello there! I'm Matheus Costa</h1>
-<h3 align="left">I am a Software Developer at Popstand </h3>
-
-
-<a href="#matheus-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=costamatheus97&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Matheus Costa" align="right" />
-</a>
+<h3 align="left">I am a Software Developer at Varsity Tutors </h3>
 
 - :office: &nbsp;I'm currently working at **Varsity Tutors**
 - :seedling: &nbsp;I’m currently learning **[Go](https://go.dev/)**
