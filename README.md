@@ -16,10 +16,6 @@
 - :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/txupsss)**
 
 <br>
-
-
-<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=costamatheus97&theme=react-dark)](https://github.com/costamatheus97)
- -->
   
   ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
